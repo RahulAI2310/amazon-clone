@@ -43,7 +43,7 @@ Amazon_Clone/
 ---
 
 ## 📌 How to Run  
-1. Clone the reposi![Uploading Screenshot 2025-08-30 105301.png…]()
+1. Clone the reposi<img width="1889" height="916" alt="Screenshot 2025-08-30 105301" src="https://github.com/user-attachments/assets/262c8ca7-83ef-4520-86e4-34d7eab7d981" />
 tory:  
    ```bash
    git clone https://github.com/RahulAI2310/amazon-clone.git
@@ -51,5 +51,6 @@ tory:
 ##Screenshot
 <img width="1851" height="890" alt="image" src="https://github.com/user-attachments/assets/8743aa5c-bdc5-4705-a8a8-19d045d3cecc" />
 
-<img width="1851" height="890" alt="Screenshot 2025-08-30 105342" src="https://github.com/user-attachments/assets/22a3d460-9dd2-4334-add5-47aaaa32c5fa" />
+
+![Uploading Screenshot 2025-08-30 105301.png…]()
 
